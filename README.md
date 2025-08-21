@@ -13,7 +13,10 @@ This project implements a custom wake word detection system that:
 
 ## 🎬 Demo Video
 
-https://github.com/medcharf/Voice-Recognition-Nicla-Vision/demo.MOV
+
+https://github.com/user-attachments/assets/91525dcf-0007-4044-9bb0-4f142c355987
+
+
 **Demo showcases:**
 - 🎙️ Real-time voice recognition in action
 - 📊 Live confidence scores and predictions
