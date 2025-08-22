@@ -26,8 +26,6 @@ https://github.com/user-attachments/assets/91525dcf-0007-4044-9bb0-4f142c355987
 
 *Click the badge above to watch the full demonstration*
 
-> **Note:** Replace `https://your-video-link-here.com` with your actual video URL (YouTube, Vimeo, etc.)
-
 ## 🛠 Hardware Requirements
 
 - **Arduino Nicla Vision** board
