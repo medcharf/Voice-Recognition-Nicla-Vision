@@ -73,7 +73,7 @@ npm install -g edge-impulse-cli
 
 **Signal Processing:**
 - **Processing Block:** Audio (MFCC)
-- **Window Size:** 3000ms
+- **Window Size:** 1500ms
 - **Window Increase:** 1000ms
 - **MFCC Coefficients:** 13
 
